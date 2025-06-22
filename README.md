@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=BTech+CSE+Student;Aspiring+Data+Scientist;Builder+of+Meaningful+Tech;Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=BTech+CSE+Student;Learning+Data+Science;Python+%26+Web+Scraping+Enthusiast;Building+Meaningful+Tech)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,10 +12,10 @@
 
 I'm a **self-taught developer** passionate about using technology for **social good**, **education reform**, and **AI research**. I enjoy solving real-world problems by building tools that sit at the intersection of **engineering**, **ethics**, and **imagination**.
 
-- 🔭 Currently working on **ML pipelines** and **open-source contributions**
-- 🌱 Learning **scikit-learn**, **Streamlit**, and advanced **Machine Learning**
-- 👯 Looking to collaborate on **impactful tech projects**
-- 💬 Ask me about **Python**, **Data Visualization**, and **AI Ethics**
+- 🔭 Currently learning **Data Science** and **Machine Learning fundamentals**
+- 🌱 Recently completed **Python basics** and **web scraping**, now diving into **scikit-learn**
+- 👯 Looking to collaborate on **beginner-friendly projects** and **learning opportunities**
+- 💬 Ask me about **Python**, **Web Scraping**, **Selenium**, **FastAPI/Flask/Django**, and **Automation**
 - ⚡ Fun fact: I believe in **"Build while you learn. Help someone along the way."**
 
 ---
@@ -75,28 +75,27 @@ I'm a **self-taught developer** passionate about using technology for **social g
 
 <div align="center">
 
-### Languages
+### Languages I Know
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frameworks & Libraries
+### Web Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Web Scraping & Automation
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-306998?style=for-the-badge&logo=python&logoColor=white)
 
+### Tools I Use
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 ### Currently Learning
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-FF6F61?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -124,11 +123,12 @@ I'm a **self-taught developer** passionate about using technology for **social g
 
 ## 🎯 2025 Learning Goals
 
-- [ ] **Contribute to Open Source** — Make meaningful contributions to impactful projects
-- [ ] **Build End-to-End ML App** — Complete pipeline from data to deployment
+- [ ] **Master Data Science Fundamentals** — Complete core concepts and practical applications
+- [ ] **Build First ML Project** — Create an end-to-end machine learning application
+- [ ] **Contribute to Open Source** — Make my first meaningful open-source contribution
 - [ ] **Win National Hackathon** — Lead a team to victory in a major competition
+- [ ] **Advanced Web Scraping** — Master complex scraping techniques and anti-bot measures
 - [ ] **Community Impact** — Build technology that helps my local community
-- [ ] **Research Publication** — Contribute to AI ethics and responsible technology
 
 ---
 
