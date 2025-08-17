@@ -1,10 +1,12 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,33,4,29&height=250&section=header&text=Dhritikrishna%20Tripathi&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=38&desc=BTech%20CSE%20Student%20|%20Machine%20Learning%20Enthusiast&descAlignY=58&descAlign=50&descSize=18"/>
+<!-- Updated header banner to use purple and blue gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28&height=250&section=header&text=Dhritikrishna%20Tripathi&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=38&desc=BTech%20CSE%20Student%20|%20Machine%20Learning%20Enthusiast&descAlignY=58&descAlign=50&descSize=18"/>
 
 <!-- Animated Typing -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Python+%26+Web+Scraping+Expert+🐍;Working+on+ETL+Projects+⚙️;Preparing+for+Machine+Learning+🧠;Building+Tech+for+Social+Good+🚀)](https://git.io/typing-svg)
+<!-- Changed typing animation color to shiny blue -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Python+%26+Web+Scraping+Expert+🐍;Working+on+ETL+Projects+⚙️;Preparing+for+Machine+Learning+🧠;Building+Tech+for+Social+Good+🚀)](https://git.io/typing-svg)
 
 <!-- Social Links -->
 <p align="center">
@@ -12,13 +14,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Dhritikrishna123" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <!-- Updated GitHub badge to use black background -->
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.instagram.com/dhritikrishnat/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://discord.com/users/nyrrhazeth" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <!-- Updated Discord badge to use purple -->
+    <img src="https://img.shields.io/badge/Discord-8B5CF6?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="mailto:dhritikrishnat@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -33,7 +37,8 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dhritikrishna123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Updated trophy theme to use purple/dark theme -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dhritikrishna123&theme=discord&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -42,8 +47,9 @@
 ## 🏅 Recent Achievements
 
 <div align="center">
-<img src="https://img.shields.io/badge/SIH%202024-🥇%20FINALIST-gold?style=for-the-badge&labelColor=FF6B35&color=FFD700" alt="SIH Finalist"/>
-<img src="https://img.shields.io/badge/CODEBIRD%202025-💡%20BEST%20IDEA-blue?style=for-the-badge&labelColor=4285F4&color=00D4FF" alt="Best Idea Award"/>
+<!-- Updated achievement badges to use purple and blue colors -->
+<img src="https://img.shields.io/badge/SIH%202024-🥇%20FINALIST-gold?style=for-the-badge&labelColor=8B5CF6&color=FFD700" alt="SIH Finalist"/>
+<img src="https://img.shields.io/badge/CODEBIRD%202025-💡%20BEST%20IDEA-blue?style=for-the-badge&labelColor=000000&color=3B82F6" alt="Best Idea Award"/>
 </div>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
@@ -52,13 +58,14 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=00599C" alt="C"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=00599C" alt="C++"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white&labelColor=43B02A" alt="Selenium"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000" alt="Flask"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=092E20" alt="Django"/>
+<!-- Updated tech stack badges to use black and purple color scheme -->
+<img src="https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" alt="Python"/>
+<img src="https://img.shields.io/badge/C-3B82F6?style=for-the-badge&logo=c&logoColor=white&labelColor=000000" alt="C"/>
+<img src="https://img.shields.io/badge/C++-3B82F6?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000" alt="C++"/>
+<img src="https://img.shields.io/badge/Selenium-8B5CF6?style=for-the-badge&logo=selenium&logoColor=white&labelColor=000000" alt="Selenium"/>
+<img src="https://img.shields.io/badge/FastAPI-00FFFF?style=for-the-badge&logo=fastapi&logoColor=black&labelColor=000000" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Flask-8B5CF6?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000" alt="Flask"/>
+<img src="https://img.shields.io/badge/Django-3B82F6?style=for-the-badge&logo=django&logoColor=white&labelColor=000000" alt="Django"/>
 
 <!-- Bouncing Tech Icons -->
 <p align="center">
@@ -76,13 +83,15 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhritikrishna123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhritikrishna123&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B35&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+<!-- Updated GitHub stats to use purple and blue theme -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhritikrishna123&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=8B5CF6&icon_color=3B82F6&text_color=FFFFFF" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhritikrishna123&theme=dark&hide_border=true&background=000000&stroke=8B5CF6&ring=3B82F6&fire=00FFFF&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhritikrishna123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" alt="Top Languages"/>
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhritikrishna123&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=8B5CF6&text_color=FFFFFF" alt="Top Languages"/>
 
 <!-- Activity Graph -->
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhritikrishna123&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&area_color=00F5FF" alt="Activity Graph"/>
+<!-- Updated activity graph to use purple and blue colors -->
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhritikrishna123&theme=high-contrast&hide_border=true&bg_color=000000&color=8B5CF6&line=3B82F6&point=00FFFF&area=true&area_color=8B5CF6" alt="Activity Graph"/>
 
 <!-- Snake Animation -->
 <picture>
@@ -119,17 +128,18 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/⚙️-ETL%20Projects-blue?style=for-the-badge&labelColor=4285F4"/>
+<!-- Updated focus badges to use new color scheme -->
+<img src="https://img.shields.io/badge/⚙️-ETL%20Projects-blue?style=for-the-badge&labelColor=000000&color=3B82F6"/>
 <br><br>
 <p>Building data pipelines and engineering workflows</p>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/📐-Math%20for%20ML-green?style=for-the-badge&labelColor=34A853"/>
+<img src="https://img.shields.io/badge/📐-Math%20for%20ML-purple?style=for-the-badge&labelColor=000000&color=8B5CF6"/>
 <br><br>
 <p>Strengthening mathematical foundations deeply</p>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/🌟-Open%20Source-orange?style=for-the-badge&labelColor=FF9800"/>
+<img src="https://img.shields.io/badge/🌟-Open%20Source-cyan?style=for-the-badge&labelColor=000000&color=00FFFF"/>
 <br><br>
 <p>Contributing to meaningful projects</p>
 </td>
@@ -153,7 +163,8 @@
 <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:dhritikrishnat@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<!-- Updated email badge to use purple -->
+<img src="https://img.shields.io/badge/Email-Say%20Hello-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 </p>
 
@@ -165,9 +176,11 @@
 
 **💭 "Build while you learn. Help someone along the way."**
 
-<img src="https://komarev.com/ghpvc/?username=Dhritikrishna123&color=00F5FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+<!-- Updated profile views counter to use shiny blue -->
+<img src="https://komarev.com/ghpvc/?username=Dhritikrishna123&color=3B82F6&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<!-- Updated footer wave to use purple gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=100&section=footer"/>
 
 </div>
