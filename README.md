@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Dhritikrishna%20Tripathi&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=BTech%20CSE%20Student%20|%20Data%20Science%20Enthusiast&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,33,4,29&height=250&section=header&text=Dhritikrishna%20Tripathi&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=38&desc=BTech%20CSE%20Student%20|%20Machine%20Learning%20Enthusiast&descAlignY=58&descAlign=50&descSize=18"/>
 
 <!-- Animated Typing -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Python+%26+Web+Scraping+Expert+🐍;Working+on+ETL+Projects+⚙️;Preparing+for+Machine+Learning+🧠;Building+Tech+for+Social+Good+🚀)](https://git.io/typing-svg)
@@ -27,7 +27,7 @@
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 ## 🏆 GitHub Trophies
 
@@ -37,7 +37,7 @@
 
 </div>
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ## 🏅 Recent Achievements
 
@@ -46,23 +46,31 @@
 <img src="https://img.shields.io/badge/CODEBIRD%202025-💡%20BEST%20IDEA-blue?style=for-the-badge&labelColor=4285F4&color=00D4FF" alt="Best Idea Award"/>
 </div>
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ## 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=00599C" alt="C"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=00599C" alt="C++"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white&labelColor=43B02A" alt="Selenium"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000" alt="Flask"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=092E20" alt="Django"/>
+
+<!-- Bouncing Tech Icons -->
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40" alt="Data Science"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="40" alt="Analytics"/>
+</p>
 
 **Currently Learning:** `Mathematics for ML` • `ETL Pipelines` • `Data Engineering`
 
 </div>
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ## 📊 GitHub Stats
 
@@ -85,20 +93,24 @@
 
 </div>
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ## 🚀 Currently Working On
 
 <div align="center">
+
+<img align="right" width="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding"/>
 
 🔭 **ETL Data Projects** - Building robust data pipelines  
 📚 **Mathematics Deep Dive** - Strengthening foundation for ML  
 ⚙️ **Automation Tools** - Streamlining workflows with Python  
 🎯 **Preparing for Machine Learning** - Next phase of my journey  
 
+<br clear="right"/>
+
 </div>
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ## 🎯 Current Focus
 
@@ -126,7 +138,7 @@
 
 </div>
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ## 🤝 Connect With Me
 
@@ -147,7 +159,7 @@
 
 </div>
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <div align="center">
 
