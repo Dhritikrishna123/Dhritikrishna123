@@ -1,8 +1,8 @@
 <div align="center">
 
 <!-- Header Banner -->
-<!-- Updated header banner to use purple and blue gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28&height=250&section=header&text=Dhritikrishna%20Tripathi&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=38&desc=BTech%20CSE%20Student%20|%20Machine%20Learning%20Enthusiast&descAlignY=58&descAlign=50&descSize=18"/>
+<!-- Updated header banner to use black, purple and blue gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,17,18,19,20&height=250&section=header&text=Dhritikrishna%20Tripathi&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=38&desc=BTech%20CSE%20Student%20|%20Machine%20Learning%20Enthusiast&descAlignY=58&descAlign=50&descSize=18"/>
 
 <!-- Animated Typing -->
 <!-- Changed typing animation color to shiny blue -->
@@ -37,8 +37,8 @@
 
 <div align="center">
 
-<!-- Updated trophy theme to use purple/dark theme -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dhritikrishna123&theme=discord&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Updated trophy theme to use purple/dark theme and exclude unknown trophies -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dhritikrishna123&theme=discord&no-frame=true&no-bg=true&margin-w=4&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -87,7 +87,9 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhritikrishna123&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=8B5CF6&icon_color=3B82F6&text_color=FFFFFF" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhritikrishna123&theme=dark&hide_border=true&background=000000&stroke=8B5CF6&ring=3B82F6&fire=00FFFF&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhritikrishna123&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=8B5CF6&text_color=FFFFFF" alt="Top Languages"/>
+<!-- Top Languages (smaller) + Productive Time -->
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhritikrishna123&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=8B5CF6&text_color=FFFFFF" alt="Top Languages"/>
+<img width="55%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dhritikrishna123&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
 
 <!-- Activity Graph -->
 <!-- Updated activity graph to use purple and blue colors -->
@@ -181,6 +183,6 @@
 
 <!-- Footer Wave -->
 <!-- Updated footer wave to use purple gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,17,18,19,20&height=100&section=footer"/>
 
 </div>
