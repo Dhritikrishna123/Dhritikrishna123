@@ -33,26 +33,6 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<!-- Updated trophy theme to use purple/dark theme and exclude unknown trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dhritikrishna123&theme=discord&no-frame=true&no-bg=true&margin-w=4&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-## 🏅 Recent Achievements
-
-<div align="center">
-<!-- Updated achievement badges to use purple and blue colors -->
-<img src="https://img.shields.io/badge/SIH%202024-🥇%20FINALIST-gold?style=for-the-badge&labelColor=8B5CF6&color=FFD700" alt="SIH Finalist"/>
-<img src="https://img.shields.io/badge/CODEBIRD%202025-💡%20BEST%20IDEA-blue?style=for-the-badge&labelColor=000000&color=3B82F6" alt="Best Idea Award"/>
-</div>
-
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ## 💻 Tech Stack
 
